@@ -38,3 +38,4 @@ At CSIR-National Institute of Oceanography, Goa, I generated 3D reconstructions 
 - **Frameworks:** TensorFlow, PyTorch, OpenCV, Open3D, ROS/ROS 2, Gazebo, HoloOcean
 - **Robotics:** State estimation (EKF, UKF), multi-sensor fusion, visual SLAM, robotics perception
 - **CAD and 3D:** AutoCAD, CATIA, Fusion 360, Agisoft Metashape, Meshroom, MeshLab, VisualSfM, Blender
+
