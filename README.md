@@ -16,7 +16,7 @@ My master's thesis at the IRV Lab: restoring underwater images so that downstrea
 
 ### Ghost net detection and monocular depth estimation
 
-At NIT Puducherry, I designed a YOLOv5 + MiDaS pipeline for real-time detection and depth estimation of ghost nets (abandoned fishing gear). A ResNet50 fine-tuned with transfer learning reached 91.1% accuracy on a custom ghost net dataset. I benchmarked three depth estimation models, found MiDaS best suited to underwater environments, and incorporated wavelength-dependent attenuation to refine underwater monocular depth estimates.
+At NIT Puducherry, I designed a YOLOv5 + MiDaS pipeline for real-time detection and depth estimation of ghost nets (abandoned fishing gear). A ResNet50 fine-tuned with transfer learning achieved F1 = 0.9111 on a custom ghost net dataset. I benchmarked three depth estimation models, found MiDaS best suited to underwater environments, and incorporated wavelength-dependent attenuation to refine underwater monocular depth estimates.
 
 > M. Ayaan and R. N. Raj. [Detection and Monocular Depth Estimation of Ghost Nets](https://doi.org/10.1007/978-3-031-93703-3_4). *International Conference on Computer Vision and Image Processing (CVIP 2024)*, Springer, pp. 45–58.
 
